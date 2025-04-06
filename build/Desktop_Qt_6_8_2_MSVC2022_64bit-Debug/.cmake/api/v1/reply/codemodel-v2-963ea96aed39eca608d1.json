@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7250c050982ae9766cda.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TIP-3-kr",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TIP-3-kr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TIP-3-kr-Debug-1cc947157d9e87a526a0.json",
+					"name" : "TIP-3-kr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TIP-3-kr_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TIP-3-kr_autogen-Debug-ccbdb989b2ee5385e022.json",
+					"name" : "TIP-3-kr_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TIP-3-kr_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TIP-3-kr_autogen_timestamp_deps-Debug-0244a0efaab7d1228182.json",
+					"name" : "TIP-3-kr_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug",
+		"source" : "H:/projects/TIP-3-kr"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

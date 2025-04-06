@@ -1,0 +1,9 @@
+# ninja log v5
+8	416	7656725776864671	TIP-3-kr_autogen/timestamp	bf6626a5ff4c0193
+8	416	7656725776864671	TIP-3-kr_autogen/mocs_compilation.cpp	bf6626a5ff4c0193
+8	416	7656725776864671	H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/TIP-3-kr_autogen/timestamp	bf6626a5ff4c0193
+8	416	7656725776864671	H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/TIP-3-kr_autogen/mocs_compilation.cpp	bf6626a5ff4c0193
+421	2580	7656725799227374	CMakeFiles/TIP-3-kr.dir/TIP-3-kr_autogen/mocs_compilation.cpp.obj	f7138599e3c37dde
+425	2602	7656725799441685	CMakeFiles/TIP-3-kr.dir/main.cpp.obj	ae06bfb57d907d6c
+429	2808	7656725801484179	CMakeFiles/TIP-3-kr.dir/mainwindow.cpp.obj	d2084634421b29a0
+2808	3236	7656725805395892	TIP-3-kr.exe	82afb2415361a303

@@ -1,0 +1,8 @@
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/TIP-3-kr.dir
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/TIP-3-kr_autogen_timestamp_deps.dir
+H:/projects/TIP-3-kr/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/TIP-3-kr_autogen.dir
